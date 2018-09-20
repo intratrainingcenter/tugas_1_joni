@@ -1,0 +1,149 @@
+body{
+	background-image: url(foto/pexels-photo-751373.jpeg);
+}
+.clear-fix{
+	display: block;
+	content: "";
+	clear: both;
+}
+.my-header{
+	background-color: #848484;
+	top: 0;
+	width: 100%;
+	height: 150px;
+	/* background-color: green; */
+}
+.Foto-header{
+	float: left;
+	width: 20%;
+	/* background-color: green; */
+}
+.name-perusahaan{
+	background-color: #848484;
+	float: left;
+	width: 60%;
+	/* background-color: blue; */
+}
+.tombol-login{
+	background-color: #848484;
+	float: left;
+	width: 20%;
+	/* background-color: red; */
+}
+.foto-perusahaan{
+	width: 200px;
+	height: 145px;
+}
+.foto-profil{
+	border-radius: 50%;
+	width: 300px;
+	height: 300px;
+}
+.my-menu{
+	margin-top: 25px;
+}
+.men{
+	list-style-type: none;
+	margin: 1px;
+	overflow: hidden;
+	background-color: #848484;
+}
+.men li{
+	float: left;
+}
+.men li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 20px 20px;
+	text-decoration: none;
+}
+.men li a:hover{
+	background-color: blue;
+}
+.my-product{
+	float: left;
+	background-color: transparent;
+	width: 75%;
+	margin: 1px 1px 1px 5px;
+}
+.news{
+	margin-top: 1px;
+	margin-left: 1px;
+	margin-bottom: 1px;
+	float: left;
+	background-color: blue;
+	width: 24%;
+}
+.product-bg-1{
+	border-radius: 15px;
+	width: 27%;
+	height: 800px;
+	margin: 10px;
+	padding: 5px;
+	float: left;
+	background-color: #C0B2b5;
+}
+.isi{
+	padding: 10px;
+}
+.foto-product{
+	padding: 5px;
+	border-radius: 20%;
+	margin: 5px;
+	width: 200px;
+	height: 210px;
+	/* background-color: yellow; */
+}
+input{
+	top: 0;
+	border: 0;
+	outline: 0;
+	background: transparent;
+	border-bottom: 1px solid black;
+	color: black;
+}
+.data-nama-contac{
+	width: 60%;
+	float: left;
+	margin-left: 55px;
+	margin-bottom:  50px;
+}
+.data-nama-team{
+	float: left;
+	margin-left: -40px;
+	margin-bottom: 40px;
+	width: 50%;
+}
+.about-perusahaan{
+	margin-bottom: 30px;
+}
+.contac{
+	/* margin-top: -100px; */
+	margin-bottom: 30px;
+	width: 70%;
+}
+.pisah{
+	/* margin-top: 20px; */
+	/* margin-bottom: 20px; */
+	/* margin-left: 20px;
+	margin-right:  20px; */
+}
+.aboutus{
+	float: left;
+}
+.team{
+	width: 33%;
+	float: left;
+	margin-left: 40px;
+}
+.profil-perusahaan{
+	width: 25%;
+	float: left;
+}
+.my-footer{
+	background-color: #848484;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
